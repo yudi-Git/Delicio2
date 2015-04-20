@@ -27,3 +27,12 @@ Online and offline promotions of our Suppliers an
 d Chefs.
 Advertisements on Website.
 
+Contributors:
+
+Aayush Sarva
+Utkarsh Dixit
+Shivang Gupta
+Krishnaneel Reddy
+Eina Gupta
+Nilofer Quadri
+

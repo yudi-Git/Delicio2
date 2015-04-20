@@ -29,10 +29,10 @@ Advertisements on Website.
 
 Contributors:
 
-Aayush Sarva
-Utkarsh Dixit
-Shivang Gupta
-Krishnaneel Reddy
-Eina Gupta
-Nilofer Quadri
+1.Aayush Sarva
+2.Utkarsh Dixit
+3.Shivang Gupta
+4.Krishnaneel Reddy
+5.Eina Gupta
+6.Nilofer Quadri
 
